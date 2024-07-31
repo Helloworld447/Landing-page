@@ -1,0 +1,39 @@
+#emoji {
+    font-size: 3rem;
+}
+
+/*.quick_select_img{
+    max-width: 420px;
+    max-height: 560px;
+    width: 1200;
+    height: 1300;
+}
+
+
+/*.quick_select_img{
+    width: 420px;
+    height: 629.672px;
+}
+
+.quick_select_img img{
+    width: 100%;
+    height: 100%;
+    object-fit:contain;
+}
+*/
+
+/*.image img{
+    display: block;
+    border-radius: 4px;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}*/
+
+.image video{
+    display: block;
+    border-radius: 4px;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
